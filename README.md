@@ -1,4 +1,4 @@
-[![MATLAB](https://github.com/Kansses/Git-actions-test/actions/workflows/ci.yml/badge.svg)](https://github.com/Kansses/Git-actions-test/actions/workflows/ci.yml))
+[![MATLAB](https://github.com/Kansses/Git-actions-test/actions/workflows/ci.yml/badge.svg)](https://github.com/Kansses/Git-actions-test/actions/workflows/ci.yml)
 
 
 # Continuous Integration (CI) configuration examples for MATLAB<sup>&reg;</sup>
