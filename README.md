@@ -1,4 +1,4 @@
-|[![MATLAB](https://github.com/Kansses/Git-actions-test/actions/workflows/
+[![MATLAB](https://github.com/Kansses/Git-actions-test/actions/workflows/
 ci.yml/badge.svg)](https://github.com/Kansses/Git-actions-test/actions/
 workflows/ci.yml))
 
